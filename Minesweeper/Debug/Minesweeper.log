@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\idoav\source\repos\Minesweeper\Minesweeper\Source.c(129,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\idoav\source\repos\Minesweeper\Minesweeper\Source.c(154,12): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\idoav\source\repos\Minesweeper\Minesweeper\Source.c(151,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\idoav\source\repos\Minesweeper\Minesweeper\Source.c(327,10): warning C4129: '-': unrecognized character escape sequence
+  Minesweeper.vcxproj -> C:\Users\idoav\source\repos\Minesweeper\Debug\Minesweeper.exe
